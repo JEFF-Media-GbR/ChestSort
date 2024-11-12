@@ -44,7 +44,7 @@
 # chestsort.hotkey.<hotkey>  Allows to use a specific hotkey. Given to all players by default. Players still need
 #                            to have the chestsort.use or chestsort.use.inventory permission.
 #                            Available hotkeys are: shiftclick, middleclick, doubleclick, shiftrightclick,
-#                                                   leftclick, rightlick, outside
+#                                                   leftclick, rightclick, outside
 
 
 ###############################
