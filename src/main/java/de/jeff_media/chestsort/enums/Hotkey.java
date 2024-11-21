@@ -40,7 +40,7 @@ public enum Hotkey {
     public static String getPermission(Hotkey hotkey) {
 
         if(hotkey == AUTO_SORT) {
-            return "chestsort.use";
+            return "chestsort.automatic";
         }
 
         if(hotkey == AUTO_INV_SORT) {
